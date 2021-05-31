@@ -344,5 +344,5 @@ body {
 }
 
 .ticket.active {
-  box-shadow: 0 0 3px 1px;
+  box-shadow: 0 0 3px 1px white;
 }
